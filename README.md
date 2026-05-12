@@ -1,4 +1,4 @@
 # TachiyomiSYPreview
 A download host for TachiyomiSY Preview builds
 
-TachiyomiSY: https://github.com/jobobby04/TachiyomiSY/
+TachiyomiSY: https://github.com/pazbryant7/TachiyomiSY/
