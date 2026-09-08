@@ -1,4 +1,4 @@
-# TachiyomiSYPreview
-A download host for TachiyomiSY Preview builds
+# DyomiPreview
+A download host for Dyomi preview builds
 
-TachiyomiSY: https://github.com/jobobby04/TachiyomiSY/
+Dyomi: https://github.com/pazbryant7/Dyomi/
